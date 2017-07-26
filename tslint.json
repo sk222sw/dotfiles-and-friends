@@ -5,6 +5,7 @@
     "ter-arrow-parens": false,
     "semicolon": [
       true, "never"
-    ]
+    ],
+    "jsx-no-multiline-js": false
   }
 }
