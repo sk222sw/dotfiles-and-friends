@@ -1,0 +1,10 @@
+{
+  "extends": ["tslint:latest", "tslint-react", "tslint-config-airbnb"],
+  "rules": {
+    "member-access": false,
+    "ter-arrow-parens": false,
+    "semicolon": [
+      true, "never"
+    ]
+  }
+}
